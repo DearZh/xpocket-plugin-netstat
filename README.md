@@ -2,7 +2,7 @@
 
 ![XPocket](resources/img.jpg)
 
-### Arthas Plugin For XPocket
+### netstat Plugin For XPocket
 
 #### 简介
 
