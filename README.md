@@ -1,6 +1,6 @@
 # xpocket-plugin-netstat
 
-![XPocket](resources/img.jpg)
+![XPocket](src/main/resources/img.jpg)
 
 ### netstat Plugin For XPocket
 
