@@ -1,0 +1,7 @@
+plugin-name=netstat
+plugin-namespace=LINUX
+plugin-version=2.0.0-RELEASE
+main-implementation=com.perfma.xlab.xpocket.plugin.netstat.NetstatXPocketPlugin
+plugin-project=https://github.com/DearZh/xpocket-plugin-netstat
+plugin-author=Arnold.zhao
+usage-tips=1.使用netstat -h 获取详细帮助信息。
